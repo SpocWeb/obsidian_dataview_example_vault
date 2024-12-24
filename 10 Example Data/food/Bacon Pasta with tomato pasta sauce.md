@@ -18,9 +18,9 @@ ingredients:
 ## Ingredients
 
   - [ ] 160 g / 5 oz spaghetti or other long strand pasta of choice
-  - [ ] 1 tsp olive oil (or butter)
+  - [x] 1 tsp olive oil (or butter)
   - [ ] 150 - 180 g / 5 - 6 oz bacon , diced
-  - [ ] 1 garlic clove , minced
+  - [x] 1 garlic clove , minced
   - [ ] 1/2 onion , finely diced (brown, white, yellow)
   - [ ] 400 g / 14 oz canned crushed tomato
   - [ ] Salt and pepper
